@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            bigonil/animal-farm-nodejs:latest
-            ghcr.io/bigonil/animal-farm-nodejs:latest
+            lbigoni/animal-farm-nodejs:latest
+            ghcr.io/lbigoni/animal-farm-nodejs:latest
