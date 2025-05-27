@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             lbigoni/animal-farm-nodejs:latest
-            ghcr.io/lbigoni/animal-farm-nodejs:latest
+            ghcr.io/bigonil/animal-farm-nodejs:latest
